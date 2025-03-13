@@ -6,3 +6,15 @@
     right: 0;
     width: 100%;
 }
+
+.map-data-container {
+    position: relative;
+    background: rgba(187, 201, 242, 0.8);
+    width: 260px;
+    top: 0;
+    left: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 8px;
+    overflow: visible;
+}
